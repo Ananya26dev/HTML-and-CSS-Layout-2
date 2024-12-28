@@ -1,0 +1,1 @@
+ The project demonstrates a structured webpage layout created with HTML and CSS. The layout is divided into a Header, Aside, Article (Main Content), and Footer, with neatly aligned sections and bright, distinguishable colors.
